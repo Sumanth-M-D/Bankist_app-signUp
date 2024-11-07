@@ -62,7 +62,7 @@
     event.preventDefault();
     modal.classList.remove('hidden');
     overlay.classList.remove('hidden');
-  };
+  }; 
 
   const closeModal = function () {
     modal.classList.add('hidden');

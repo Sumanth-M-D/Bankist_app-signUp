@@ -124,10 +124,10 @@ img {
   z-index: 100;
 
   position: relative;
-  top:0;
-  left:0;
+  top: 0;
+  left: 0;
   margin: 1em, 0;
-  background-color: #222;
+  background-color: #22222220;
 }
 
 /* nav and stickly class at the same time */
